@@ -1,3 +1,8 @@
+# Changelog 16/11/21
+* Removed Claimblocks Plugin
+* Added Shulker kit that grants 2 shulker shells and is only useable every 24 hours, Costs $1000
+* Added Time Is Money plugin that adds a ATM GUI and gives players money for the time they're online playing.
+
 # Changelog 11/11/21
 * Regenerated a ton of chunks around everyone's bases to update them to include 1.17 generation with:
   * deepslate
