@@ -3,6 +3,7 @@
   * Setup Pineappleville and Kingdom of Pineapple using the Exploding Pineapple Minecraft account for a public hub/shopping district in the future.
 * Removed Chunkmaster plugin
 * Added Advanced Portals Plugin as a possible replacement to WarpSystem
+* Fix respawns by changing respawn-at-home in the essentials config from false to true.
 * Possible other changes that I've forgotten, I'll add them as I remember
 
 # Changelog 16/11/21
