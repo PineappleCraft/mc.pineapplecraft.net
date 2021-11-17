@@ -2,6 +2,7 @@
 * Reset Towny again... Turns out world settings only apply to a world at first install of Towny
   * Setup Pineappleville and Kingdom of Pineapple using the Exploding Pineapple Minecraft account for a public hub/shopping district in the future.
 * Removed Chunkmaster plugin
+* Added Advanced Portals Plugin as a possible replacement to WarpSystem
 * Possible other changes that I've forgotten, I'll add them as I remember
 
 # Changelog 16/11/21
