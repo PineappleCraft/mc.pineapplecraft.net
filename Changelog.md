@@ -1,3 +1,9 @@
+# Changelog 17/11/21
+* Reset Towny again... Turns out world settings only apply to a world at first install of Towny
+  * Setup Pineappleville and Kingdom of Pineapple using the Exploding Pineapple Minecraft account for a public hub/shopping district in the future.
+* Removed Chunkmaster plugin
+* Possible other changes that I've forgotten, I'll add them as I remember
+
 # Changelog 16/11/21
 * Removed Claimblocks Plugin
 * Added Shulker kit that grants 2 shulker shells and is only useable every 24 hours, Costs $1000
