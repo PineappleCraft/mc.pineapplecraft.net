@@ -1,3 +1,12 @@
+# Changelog 22/11/21
+* Added [Shopkeepers](https://www.spigotmc.org/resources/shopkeepers.80756/)
+* Added [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/)
+* Added [ChestCommands](https://dev.bukkit.org/projects/chest-commands)
+* Added [DriveBackupV2](https://www.spigotmc.org/resources/drivebackupv2.79519/)
+* Added [Essentials WarpGUI](https://www.spigotmc.org/resources/essentials-warp-gui-opensource.13571/)
+* Added [HolidayHunt](https://www.spigotmc.org/resources/holidayhunt-christmas-game.97167/)
+* Updated Permissions
+
 # Changelog 17/11/21
 * Reset Towny again... Turns out world settings only apply to a world at first install of Towny
   * Setup Pineappleville and Kingdom of Pineapple using the Exploding Pineapple Minecraft account for a public hub/shopping district in the future.
