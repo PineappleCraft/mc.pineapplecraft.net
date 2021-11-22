@@ -6,6 +6,7 @@
   * Added Dependecy [CMILib](https://www.spigotmc.org/resources/cmilib.87610/)
 * Added [dynmap-residence](https://www.spigotmc.org/resources/dynmap-residence.90206/)
 * Attempted to add [Live-Atlas](https://www.spigotmc.org/resources/liveatlas-a-dynmap-pl3xmap-frontend-for-the-modern-web.86939/)
+* Added QuickShop addon [QuickShopList](https://www.spigotmc.org/resources/quickshop-addon-quickshoplist.82143/)
 
 # Changelog 22/11/21
 * Added [Shopkeepers](https://www.spigotmc.org/resources/shopkeepers.80756/)
