@@ -59,3 +59,9 @@
 * Updated Vanillatweaks Texture packs and updated and removed some of the Datapacks.
 * [Changed bukkit.yml, spigot.yml, paper.yml to apply some server optimisations.](https://www.spigotmc.org/threads/guide-server-optimization%E2%9A%A1.283181/)
 * Changed ServerRestorer config from 10gb to 50gb (Although it seems to be getting reset after a server reboot)
+
+# 13/03/2020:
+- Updated Server to Minecraft 1.17.2 and PaperMC-132
+- Reset World for a fresh start, Using Seed WLLBYUG (Same seed used for HermitCraft Season 7)
+- Added Custom Vanilla Tweaks Datapack, you can download it manually from here https://vanillatweaks.net/share/#rDeLYa
+
