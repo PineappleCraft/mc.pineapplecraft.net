@@ -1,3 +1,12 @@
+# Changelog 23/11/21
+* Updated [HolidayHunt](https://www.spigotmc.org/resources/holidayhunt-christmas-game.97167/)
+* Updated [Towny](https://www.spigotmc.org/resources/towny-advanced.72694/)
+* Added [Residence](https://www.spigotmc.org/resources/residence-1-7-10-up-to-1-17.11480/) 
+  * [Free Version](http://zrips.net/Residence/)
+  * Added Dependecy [CMILib](https://www.spigotmc.org/resources/cmilib.87610/)
+* Added [dynmap-residence](https://www.spigotmc.org/resources/dynmap-residence.90206/)
+* Attempted to add [Live-Atlas](https://www.spigotmc.org/resources/liveatlas-a-dynmap-pl3xmap-frontend-for-the-modern-web.86939/)
+
 # Changelog 22/11/21
 * Added [Shopkeepers](https://www.spigotmc.org/resources/shopkeepers.80756/)
 * Added [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/)
