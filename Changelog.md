@@ -1,3 +1,7 @@
+# Changelog 2/12/21
+* Changed LWC config to not auto apply protections, all protections must now be manually applied.
+* Various small config changes to a number of plugins.
+
 # Changelog 23/11/21
 * Updated [HolidayHunt](https://www.spigotmc.org/resources/holidayhunt-christmas-game.97167/)
 * Updated [Towny](https://www.spigotmc.org/resources/towny-advanced.72694/)
