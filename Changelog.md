@@ -1,3 +1,7 @@
+# Changelog 15/03/22
+* Moved all future plugin updates to a new [place](plugin-changelog.md)
+* Finally completed updating the server to 1.18.2 [Read more here](https://discord.com/channels/447671375012823069/590190368725925898/952977353582186556)
+
 # Changelog 2/12/21
 * Changed LWC config to not auto apply protections, all protections must now be manually applied.
 * Various small config changes to a number of plugins.
