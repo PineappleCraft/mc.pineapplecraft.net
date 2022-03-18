@@ -1,14 +1,28 @@
 # Updated Plugins
-- Last Updated: 11/03/2022
+- Last Updated: 19/03/2022
 ## Legend:
 
 - [x] = Updated
 - [ ] = Not Updated
 
-### Some plugins don't seem to include version info in the filename, which means I don't know what version they are unless I add it.
-
-Also didn't add the old versions when i started this changelog, so some of them only have the current version number and not the old one.
 * * *
+
+### Update: 19/03/2022
+
+- [x] EssentialsX-2.19.3.jar > EssentialsX-2.19.4.jar
+- [x] EssentialsXAntiBuild-2.19.3.jar > EssentialsXAntiBuild-2.19.4.jar
+- [x] EssentialsXChat-2.19.3.jar > EssentialsXChat-2.19.4.jar
+- [x] EssentialsXGeoIP-2.19.3.jar > EssentialsXGeoIP-2.19.4.jar
+- [x] EssentialsXProtect-2.19.3.jar > EssentialsXProtect-2.19.4.jar
+- [x] EssentialsXSpawn-2.19.3.jar > EssentialsXSpawn-2.19.4.jar
+
+* * *
+
+### 11/03/2022
+
+> Some plugins don't seem to include version info in the filename, which means I don't know what version they are unless I add it.
+> Also didn't add the old versions when i started this changelog, so some of them only have the current version number and not the old one.
+
 - [ ] AcoWorth-1.6.1.jar
 - [x] Advanced-Portals-0.9.2.jar
 - [ ] AsyncWorldEdit-3.9.4.jar > Replaced with FastAsyncWorldEdit
