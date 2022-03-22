@@ -7,6 +7,14 @@
 
 * * *
 
+### Update: 23/03/2022
+
+- [x] gravy-1.4.8.jar > Replaced with Graves-4.7.jar
+- [x] InventoryRollback-1.4.0.jar > Replaced with InventoryRollbackPlus-1.6.6.jar
+- [x] ServerRestorer-1.0.39.jar > Replaced with ebackup-1.3.0.jar
+
+* * *
+
 ### Update: 19/03/2022
 
 - [x] EssentialsX-2.19.3.jar > EssentialsX-2.19.4.jar
