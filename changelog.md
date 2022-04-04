@@ -1,5 +1,11 @@
 # PineappleCraft Changelog
 
+## Changelog: 4/4/2022
+* Waterfall-BungeeCord: Updated Waterfall bridge docker container
+  * reset locations.yml to force everyone to use the new server names
+  * updated config.yml by adding legacy domain mc.explodingpineapple.net pointing at smp.pineapplecraft.net
+* * *
+
 ## Changelog: 23/03/2022
 * Updated a number of plugins and replaced 3 plugins. [here](plugin-changelog.md)
 * Had an issue with dying not being able to recover items from grave, not being able to rollback inventory or restore grave with command, and to polish that all off their was no backup for that time (Luckily it happen to me and I was very very early game so no harm done.)
