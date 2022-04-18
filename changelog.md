@@ -1,5 +1,12 @@
 # PineappleCraft Changelog
 
+## Changelog: 18/04/2022
+* Disabled EssentialsProtect preventing fire spread and lava flow above a certain height.
+* Completely disabled EssentialsProtect in general as well.
+* Added VanishNoPacket for Admins
+* Additional permission changes for Admin and SuperAdmin
+* * *
+
 ## Changelog: 4/4/2022
 * Waterfall-BungeeCord: Updated Waterfall bridge docker container
   * reset locations.yml to force everyone to use the new server names
