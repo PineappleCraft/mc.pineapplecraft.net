@@ -1,7 +1,7 @@
 # PineappleCraft Changelog
 
 ## BungeeCord Changelog: 29/06/2022
-* Updated WaterFall to 1.19
+* Updated WaterFall to 1.19-497
 * * *
 
 ## Changelog: 18/04/2022
