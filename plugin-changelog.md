@@ -7,15 +7,22 @@
 
 * * *
 
-### Update: 23/03/2022
+### BungeeCord Update: 29/06/2022
 
-- [x] gravy-1.4.8.jar > Replaced with Graves-4.7.jar
-- [x] InventoryRollback-1.4.0.jar > Replaced with InventoryRollbackPlus-1.6.6.jar
-- [x] ServerRestorer-1.0.39.jar > Replaced with ebackup-1.3.0.jar
+- [x] LuckPerms-Bungee > LuckPerms-Bungee-5.4.30
+- [x] SecuredNetwork-3.4 > SafeNET-3.6
+- [x] BungeeTabListPlus > BungeeTabListPlus-3.5.1
+
+* * *
+### Paper Update: 23/03/2022
+
+- [x] gravy-1.4.8.jar > Replaced with Graves-4.7
+- [x] InventoryRollback-1.4.0 > Replaced with InventoryRollbackPlus-1.6.6
+- [x] ServerRestorer-1.0.39 > Replaced with ebackup-1.3.0
 
 * * *
 
-### Update: 19/03/2022
+### Paper Update: 19/03/2022
 
 - [x] EssentialsX-2.19.3.jar > EssentialsX-2.19.4.jar
 - [x] EssentialsXAntiBuild-2.19.3.jar > EssentialsXAntiBuild-2.19.4.jar
@@ -26,11 +33,10 @@
 
 * * *
 
-### 11/03/2022
-
+### Paper Update: 11/03/2022
 > Some plugins don't seem to include version info in the filename, which means I don't know what version they are unless I add it.
 > Also didn't add the old versions when i started this changelog, so some of them only have the current version number and not the old one.
-
+* * *
 - [ ] AcoWorth-1.6.1.jar
 - [x] Advanced-Portals-0.9.2.jar
 - [ ] AsyncWorldEdit-3.9.4.jar > Replaced with FastAsyncWorldEdit
