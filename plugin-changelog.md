@@ -1,4 +1,5 @@
 # Updated Plugins
+New Updates incoming for 1.20 Soon™
 - Last Updated: 19/03/2022
 ## Legend:
 
