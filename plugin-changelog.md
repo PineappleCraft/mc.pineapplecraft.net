@@ -9,6 +9,12 @@
 
 * * *
 
+### Paper Update 19/12/2023
+
+- Disable Citizens-2.0.33-b3287.jar because It doesn't work with Paper 1.20.2 and I can't figure out what version is compatible.
+
+* * *
+
 ### Paper Update: 19/12/2023
 
 Start of 1.20 Plugin updates.
