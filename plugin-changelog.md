@@ -11,7 +11,7 @@
 
 ### Paper Update 19/12/2023
 
-- Disable Citizens-2.0.33-b3287.jar because It doesn't work with Paper 1.20.2 and I can't figure out what version is compatible.
+- Downgrade Citizens-2.0.33-b3287.jar > Citizens-2.0.33-b3282.jar which has support for 1.20.2
 
 * * *
 
