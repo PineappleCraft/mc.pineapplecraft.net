@@ -1,10 +1,10 @@
 # PineappleCraft Changelog
 
-## BungeeCord Changelog: 29/06/2022
+## Proxy Changelog: 29/06/2022
 * Updated WaterFall to 1.19-497
 * * *
 
-## Changelog: 18/04/2022
+## Server Changelog: 18/04/2022
 * Disabled EssentialsProtect preventing fire spread and lava flow above a certain height.
 * Completely disabled EssentialsProtect in general as well.
 * Added VanishNoPacket for Admins
