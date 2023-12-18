@@ -2,7 +2,7 @@
 
 New Updates incoming for 1.20 Soon™
 
-- Last Updated: 18/12/2023
+- Last Updated: 19/12/2023
 
 ## Legend
 
@@ -11,12 +11,11 @@ New Updates incoming for 1.20 Soon™
 
 * * *
 
-### Paper Update: 18/12/2023
+### Paper Update: 19/12/2023
 
 Start of 1.20 Plugin updates.
 
 - [] AcoWorth-1.6.1.jar > No Updates (No support for 1.20)
-- [x] ProtocolLib-4.8.0.jar > ProtocolLib-5.1.0.jar
 - [] AdvancedPortals-0.9.2.jar > No Updates
 - [] BlocksHub-3.2.1.jar > No Updates
 - [x] *NEW* Added Bluemap
@@ -42,6 +41,32 @@ Start of 1.20 Plugin updates.
 - [x] EssentialsXGeoIP-2.19.4.jar > EssentialsXGeoIP-2.20.1.jar
 - [x] EssentialsXProtect-2.19.4.jar > EssentialsXProtect-2.20.1.jar
 - [x] EssentialsXSpawn-2.19.4.jar > EssentialsXSpawn-2.20.1.jar
+- [x] FastAsyncWorldEdit-Bukkit-2.1.1-SNAPSHOT-133.jar > FastAsyncWorldEdit-Bukkit-2.8.3.jar
+- [x] FastChunkPregenerator-2.0.6-SNAPSHOT.jar > FastChunkPregenerator-2.0.9-SNAPSHOT.jar
+- [x] Graves-4.7.jar > Graves-4.9.jar
+- [x] HolidayHunt-2.1.3.jar > HolidayHunt-2.3.5.jar
+- [] InventoryRollbackPlus-1.6.14.jar > No Update (Works with 1.20)
+- [] LandClaim-2.0.3.jar > No Updates
+- [x] LuckPerms-Bukkit-5.4.9.jar > LuckPerms-Bukkit-5.4.113.jar
+- [] OpenInv-4.1.10.jar > No Updates
+- [x] PlaceholderAPI-2.11.1.jar > PlaceholderAPI-2.11.5.jar
+- [x] ProtocolLib-4.8.0.jar > ProtocolLib-5.1.0.jar
+- [x] Quests-4.2.2.jar > Quests-5.0.0-rc.3.jar
+- [x] *TODO* QuickShop-5.1.0.5.jar > QuickShop-5.1.2.5.jar Replaced with QuickShopHakari (needs manual migration)
+- [] QuickShopList-1.1-SNAPSHOT.jar > No Updates (Might not be usable with QuickshopHakari)
+- [x] Residence5.0.1.3.jar > Residence5.1.4.1.jar
+- [x] SecuredNetwork-3.4.jar > SafeNET-3.8.jar
+- [x] Shopkeepers-2.14.0.jar > Shopkeepers-2.18.0.jar
+- [x] Towny-0.98.0.0.jar > Towny-0.100.0.0.jar *Looking for replacement for Towny*
+- [x] TownyChat-0.95.jar > TownyChat-0.109.jar
+- [] TownyNameUpdater-5.0.jar > No Updates
+- [] Vault-1.7.3.jar > No Updates
+- [] *NEW* ViaVersion-4.9.2.jar
+- [] WG-GUI-1.6_MC_1_13+.jar > No Updates
+- [x] WorldGuard-Towny-1.2.0.jar > WorldGuard-Towny-1.3.0.jar
+- [x] item-nbt-api-plugin-2.9.2.jar > item-nbt-api-plugin-2.12.2.jar
+- [x] mcMMO_11-02-2022.jar > mcMMO-106.jar
+- [x] worldguard-bukkit-7.0.7-dist.jar > worldguard-bukkit-7.0.9-dist.jar
 
 * * *
 
