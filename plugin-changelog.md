@@ -1,10 +1,47 @@
 # Updated Plugins
+
 New Updates incoming for 1.20 Soon™
-- Last Updated: 19/03/2022
-## Legend:
+
+- Last Updated: 18/12/2023
+
+## Legend
 
 - [x] = Updated
 - [ ] = Not Updated
+
+* * *
+
+### Paper Update: 18/12/2023
+
+Start of 1.20 Plugin updates.
+
+- [] AcoWorth-1.6.1.jar > No Updates (No support for 1.20)
+- [x] ProtocolLib-4.8.0.jar > ProtocolLib-5.1.0.jar
+- [] AdvancedPortals-0.9.2.jar > No Updates
+- [] BlocksHub-3.2.1.jar > No Updates
+- [x] *NEW* Added Bluemap
+- [x] *REPLACED* LWCX-2.2.7.jar > Replaced with Bolt-1.0.518.jar
+- [x] BungeeTabListPlus_BukkitBridge-3.4.4.jar > BungeeTabListPlus_BukkitBridge-3.6.3.jar
+- [] CMILib1.4.4.2.jar > No Updates
+- [x] ChestCommands.jar > To be Replaced with DeluxeMenus 1.14.0 (Running Both for now)
+- [x] Chunky-1.2.164.jar > Chunky-1.3.92.jar
+- [x] ChunkyBorder-1.0.64.jar > ChunkyBorder-1.1.50.jar
+- [x] Citizens-2.0.29-b2491.jar > Citizens-2.0.33-b3287.jar
+- [x] ConsoleSpamFix-1.9.0.jar > ConsoleSpamFix-1.10.0.jar
+- [x] CoreProtect-20.4.jar > CoreProtect-22.2.jar
+- [x] *NEW* > DeluxeMenus-1.14.0-Release.jar
+- [x] DiscordSRV-Build-1.25.0.jar > DiscordSRV-Build-1.26.2.jar
+- [x] DriveBackupV2-1.6.0.jar > DriveBackupV2-1.6.1.jar
+- [] *REMOVED* DynMap-Residence-1.7.0.jar (To be Replaced with [https://www.spigotmc.org/resources/bluemap-residence.107389/](https://www.spigotmc.org/resources/bluemap-residence.107389/))
+- [] *REMOVED* Dynmap-3.4-beta-2-spigot.jar (Replaced with Bluemap)
+- [] *REMOVED* Dynmap-Towny-0.89.jar > (Need to look for a replacement for Bluemap)
+- [] *REMOVED* Dynmap-WorldGuard-1.4-beta-1.jar > look at [https://www.spigotmc.org/resources/bluebridge.82954/](https://www.spigotmc.org/resources/bluebridge.82954/)
+- [x] EssentialsX-2.19.4.jar > EssentialsX-2.20.1.jar
+- [x] EssentialsXAntiBuild-2.19.4.jar > EssentialsXAntiBuild-2.20.1.jar
+- [x] EssentialsXChat-2.19.4.jar > EssentialsXChat-2.20.1.jar
+- [x] EssentialsXGeoIP-2.19.4.jar > EssentialsXGeoIP-2.20.1.jar
+- [x] EssentialsXProtect-2.19.4.jar > EssentialsXProtect-2.20.1.jar
+- [x] EssentialsXSpawn-2.19.4.jar > EssentialsXSpawn-2.20.1.jar
 
 * * *
 
@@ -35,9 +72,11 @@ New Updates incoming for 1.20 Soon™
 * * *
 
 ### Paper Update: 11/03/2022
+
 > Some plugins don't seem to include version info in the filename, which means I don't know what version they are unless I add it.
 > Also didn't add the old versions when i started this changelog, so some of them only have the current version number and not the old one.
 * * *
+
 - [ ] AcoWorth-1.6.1.jar
 - [x] Advanced-Portals-0.9.2.jar
 - [ ] AsyncWorldEdit-3.9.4.jar > Replaced with FastAsyncWorldEdit
