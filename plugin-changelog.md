@@ -9,6 +9,12 @@
 
 * * *
 
+### Paper Update 27/12/2023
+
+- Add [Spark-1.10.58-bukkit.jar](https://spark.lucko.me/download) as a replacement for `/timings` as per [Paper's Issue](https://github.com/PaperMC/Paper/issues/8948)
+
+* * *
+
 ### Paper Update 19/12/2023
 
 - Downgrade Citizens-2.0.33-b3287.jar > Citizens-2.0.33-b3282.jar which has support for 1.20.2
