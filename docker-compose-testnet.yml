@@ -1,0 +1,84 @@
+version: "3.8"
+
+services:
+  proxy:
+    image: itzg/bungeecord
+    environment:
+      TYPE: VELOCITY
+      SERVER_PORT: 25565
+    ports:
+      - "25565:25577"
+    volumes:
+      - ./proxy/velocity-data:/server
+      - ./proxy/velocity-config:/config
+    networks:
+        default:
+        br0:
+            ipv4_address: '192.168.1.175'
+    tty: true
+    stdin_open: true
+
+  hub:
+    image: itzg/minecraft-server
+    environment:
+      EULA: "true"
+      TYPE: PAPER
+      # 28140: luckperms
+      SPIGET_RESOURCES: "28140,27448,19254,84278,81534"
+      # since we're behind a proxy
+      ONLINE_MODE: "false"
+      LEVEL_TYPE: "minecraft:flat"
+      MODE: "adventure"
+      DIFFICULTY: "peaceful"
+      USE_AIKAR_FLAGS: true
+      ENABLE_AUTOPAUSE: true
+      OVERRIDE_SERVER_PROPERTIES: "TRUE"
+      MAX_TICK_TIME: "-1"
+      AUTOPAUSE_TIMEOUT_INIT: "600"
+      AUTOPAUSE_TIMEOUT_EST: "10"
+    volumes:
+      - ./hub/hub-data:/data
+      # mainly to drop in config files specific to plugins
+      - ./hub/hub-plugins:/plugins
+    networks:
+      # so proxy can reach us
+      - default
+      # so we can use databases project
+      #- dbs
+    tty: true
+    stdin_open: true
+    
+  factions:
+    image: itzg/minecraft-server
+    environment:
+      EULA: "true"
+      TYPE: PAPER
+      # 28140: luckperms
+      SPIGET_RESOURCES: "28140,27448,19254,84278,81534"
+      # since we're behind a proxy
+      ONLINE_MODE: "false"
+      USE_AIKAR_FLAGS: true
+      ENABLE_AUTOPAUSE: true
+      OVERRIDE_SERVER_PROPERTIES: "TRUE"
+      MAX_TICK_TIME: "-1"
+      AUTOPAUSE_TIMEOUT_INIT: "600"
+      AUTOPAUSE_TIMEOUT_EST: "10"
+    volumes:
+      - ./factions/factions-data:/data
+      # mainly to drop in config files specific to plugins
+      - ./factions/factions-plugins:/plugins
+    networks:
+      # so proxy can reach us
+      - default
+      # so we can use databases project
+      #- dbs
+    tty: true
+    stdin_open: true
+
+networks:
+ #dbs:
+    # declared in ../dbs
+    #external: true
+    #name: dbs_default
+ br0:
+   external: true
